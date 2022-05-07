@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{9D5A2A6D-CE6B-4F7F-99FB-D1A6F889A152}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.vcxproj", "{FBE136C5-0C00-475D-834D-9B683B1E37BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{9D5A2A6D-CE6B-4F7F-99FB-D1A6F889A152}.Release|x64.Build.0 = Release|x64
 		{9D5A2A6D-CE6B-4F7F-99FB-D1A6F889A152}.Release|x86.ActiveCfg = Release|Win32
 		{9D5A2A6D-CE6B-4F7F-99FB-D1A6F889A152}.Release|x86.Build.0 = Release|Win32
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Debug|x64.ActiveCfg = Debug|x64
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Debug|x64.Build.0 = Debug|x64
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Debug|x86.Build.0 = Debug|Win32
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Release|x64.ActiveCfg = Release|x64
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Release|x64.Build.0 = Release|x64
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Release|x86.ActiveCfg = Release|Win32
+		{E3F3FECC-FF4F-4E44-9F4D-4C0CA7AF6A5F}.Release|x86.Build.0 = Release|Win32
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Debug|x64.ActiveCfg = Debug|x64
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Debug|x64.Build.0 = Debug|x64
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Debug|x86.Build.0 = Debug|Win32
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Release|x64.ActiveCfg = Release|x64
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Release|x64.Build.0 = Release|x64
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Release|x86.ActiveCfg = Release|Win32
+		{FBE136C5-0C00-475D-834D-9B683B1E37BD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
